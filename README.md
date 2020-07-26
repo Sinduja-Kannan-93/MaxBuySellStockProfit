@@ -1,9 +1,9 @@
 # MaxBuySellStockProfit
 
 ## Introduction
-This repository is used to create a program that retrieves Maximum Profit from the list of stock value given.
-This program is written in a way the stock should be bought and sold in such that, the profit should be highest.
-`Python` programming language is used with its `OOPS concepts`.
+This repository is used to create a program that retrieves Maximum Profit from the list of stock values given.
+The hightest profit, best time to buy and sell can be retrieved from the output of this program. 
+`Python` programming language has been used here for its simplicity with its `OOPS concepts`.
 
 ## Getting Started
 Solution file include 
